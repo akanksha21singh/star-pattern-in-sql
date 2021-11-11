@@ -1,0 +1,1 @@
+# star-pattern-in-sql
