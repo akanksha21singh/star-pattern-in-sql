@@ -5,7 +5,7 @@ from information_schema.tables<br>
 limit 5
 
 
-output:
+output:<br>
 *<br>
 **<br>
 ***<br>
