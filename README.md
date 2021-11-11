@@ -18,7 +18,7 @@ select repeat('*',@var:=@var-1)<br>
 from information_schema.tables<br>
 limit 5<br>
 
-output:
+output:<br>
 ****<br>
 ***<br>
 **<br>
