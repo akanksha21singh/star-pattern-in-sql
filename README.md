@@ -1,4 +1,5 @@
 # star-pattern-in-sql
+pattern 1: <br>
 set @var=0;<br>
 select repeat('*',@var:=@var+1)<br>
 from information_schema.tables<br>
